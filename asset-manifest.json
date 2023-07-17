@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Khabar-Dekho/static/css/main.abd64e84.css",
+    "main.js": "/Khabar-Dekho/static/js/main.42f3dadf.js",
+    "static/js/787.4c026eef.chunk.js": "/Khabar-Dekho/static/js/787.4c026eef.chunk.js",
+    "index.html": "/Khabar-Dekho/index.html",
+    "main.abd64e84.css.map": "/Khabar-Dekho/static/css/main.abd64e84.css.map",
+    "main.42f3dadf.js.map": "/Khabar-Dekho/static/js/main.42f3dadf.js.map",
+    "787.4c026eef.chunk.js.map": "/Khabar-Dekho/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.42f3dadf.js"
+  ]
+}
